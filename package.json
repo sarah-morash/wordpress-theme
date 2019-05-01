@@ -1,0 +1,27 @@
+{
+  "name": "wordpress-theme",
+  "version": "1.0.0",
+  "description": "A starter Wordpress theme to get off the ground running quickly.",
+  "main": "gulpfile.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarah-morash/wordpress-theme.git"
+  },
+  "keywords": [
+    "wordpress",
+    "theme"
+  ],
+  "author": "Sarah Morash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarah-morash/wordpress-theme/issues"
+  },
+  "homepage": "https://github.com/sarah-morash/wordpress-theme#readme"
+}
